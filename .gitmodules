@@ -1,0 +1,8 @@
+[submodule "--force"]
+	path = --force
+	url = https://github.com/superp00t/klibs.git
+	branch = master
+[submodule "klibs"]
+	path = klibs
+	url = https://github.com/superp00t/klibs.git
+	branch = master
