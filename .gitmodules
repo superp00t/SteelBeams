@@ -1,3 +1,7 @@
 [submodule "klibs"]
 	path = klibs
 	url = https://github.com/superp00t/klibs
+[submodule "SteelBeams"]
+	path = SteelBeams
+	url = https://github.com/superp00t/SteelBeams
+	branch = master
